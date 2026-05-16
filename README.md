@@ -168,6 +168,7 @@ If you have a question or aren’t sure if something is worth including, you can
 
 - [pdfcrowd](https://pdfcrowd.com/) - Automatically convert web pages to PDF. Also includes an API.
 - [HTML to PDF](https://html2pdf.com/) - Free and automatic web to PDF converter.
+- [PDF Dark](https://pdfdark.org) – Free browser-based PDF dark-mode converter.
 - [pdfkits.app](https://pdfkits.app) - Online toolkit to merge, split, compress, convert and manipulate PDF files.
 - [Webpage to PDF](https://webpagetopdf.com/) - Paste in a URL and get a PDF file.
 - [W2P](https://www.web2pdfconvert.com/) - Another web to PDF converter.
@@ -193,7 +194,9 @@ If you have a question or aren’t sure if something is worth including, you can
 - [PDFGem](https://pdfgem.io/) - Free browser-based PDF tools — merge, split, compress, OCR, sign, convert, and more. Client-side processing via WebAssembly; files never leave the browser.
 - [Fluranto](https://www.fluranto.com/en/pdf) - Browser-based PDF tools with no signup. Merge, split, reorder, rotate, extract pages, add page numbers, watermark, and convert between images and PDF.
 - [DoItSwift](https://doitswift.com/pdf/) - Free browser-based PDF tools — merge, split, compress, and PDF to JPG. No Server/Cloud upload, no signup. Everything runs locally in your browser.
+- [AllPDFMagic](https://allpdfmagic.com) - Free online PDF toolbox with 33+ tools and AI-powered workflows. Merge, split, compress, convert, edit, sign, and protect PDFs with zero signup. Features AI Summarizer, Invoice Extractor, Contract Analyzer, and Multi-PDF Chat.
 - [pdfparanoia](https://github.com/kanzure/pdfparanoia) - Watermark removal tool in Python.
+- [questio](https://github.com/abcreativ/questio) - Forensic PDF auditor CLI for detecting edited, forged, or tampered PDFs. Runs locally, no uploads.
 
 ## Software
 
