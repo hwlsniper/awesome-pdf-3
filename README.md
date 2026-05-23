@@ -53,6 +53,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [dom-to-pdf](https://github.com/ovvn/dom-to-pdf) - Generate printable PDFs from DOM nodes.
 - [PDFObject](https://pdfobject.com/) - Embed PDFs in HTML.
 - [pdf2json](https://www.npmjs.com/package/pdf2json) - Node module to convert PDF to JSON.
+- [boxpdf](https://github.com/earonesty/boxpdf) - Memory optimized, streaming, flexbox JS PDF library.
 
 ### Ruby
 - [HexaPDF](https://github.com/gettalong/hexapdf) - Ruby library to create and manipulate PDFs.
