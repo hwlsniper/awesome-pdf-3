@@ -198,6 +198,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [AllPDFMagic](https://allpdfmagic.com) - Free online PDF toolbox with 33+ tools and AI-powered workflows. Merge, split, compress, convert, edit, sign, and protect PDFs with zero signup. Features AI Summarizer, Invoice Extractor, Contract Analyzer, and Multi-PDF Chat.
 - [pdfparanoia](https://github.com/kanzure/pdfparanoia) - Watermark removal tool in Python.
 - [questio](https://github.com/abcreativ/questio) - Forensic PDF auditor CLI for detecting edited, forged, or tampered PDFs. Runs locally, no uploads.
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based PDF utilities with no signup. Includes Chat with PDF (ask questions about a PDF) and PDF to Markdown (extract structured Markdown from PDFs). Client-side processing; part of a larger suite of single-purpose web tools. Open source.
 
 ## Software
 
