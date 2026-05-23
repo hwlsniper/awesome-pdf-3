@@ -193,6 +193,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [nodeice](https://github.com/IonicaBizau/nodeice) - PDF invoice generator.
 - [PDFGem](https://pdfgem.io/) - Free browser-based PDF tools — merge, split, compress, OCR, sign, convert, and more. Client-side processing via WebAssembly; files never leave the browser.
 - [Fluranto](https://www.fluranto.com/en/pdf) - Browser-based PDF tools with no signup. Merge, split, reorder, rotate, extract pages, add page numbers, watermark, and convert between images and PDF.
+- [DoItSwift](https://doitswift.com/pdf/) - Free browser-based PDF tools — merge, split, compress, and PDF to JPG. No Server/Cloud upload, no signup. Everything runs locally in your browser.
 - [AllPDFMagic](https://allpdfmagic.com) - Free online PDF toolbox with 33+ tools and AI-powered workflows. Merge, split, compress, convert, edit, sign, and protect PDFs with zero signup. Features AI Summarizer, Invoice Extractor, Contract Analyzer, and Multi-PDF Chat.
 - [pdfparanoia](https://github.com/kanzure/pdfparanoia) - Watermark removal tool in Python.
 - [questio](https://github.com/abcreativ/questio) - Forensic PDF auditor CLI for detecting edited, forged, or tampered PDFs. Runs locally, no uploads.
