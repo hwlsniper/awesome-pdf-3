@@ -164,6 +164,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [Rails PDF](https://github.com/igorkasyanchuk/rails_pdf) - Create PDF documents from HTML in Ruby on Rails.
 
 ## Tools
+- [PDF Toolbox](https://pdftoolbox-three.vercel.app) - Free browser-based PDF tools. Compress, merge, split, convert. All local WebAssembly processing — no file uploads.
 
 ### Converters
 
