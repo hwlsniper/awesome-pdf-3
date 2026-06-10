@@ -202,6 +202,8 @@ If you have a question or aren’t sure if something is worth including, you can
 - [questio](https://github.com/abcreativ/questio) - Forensic PDF auditor CLI for detecting edited, forged, or tampered PDFs. Runs locally, no uploads.
 - [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based PDF utilities with no signup. Includes Chat with PDF (ask questions about a PDF) and PDF to Markdown (extract structured Markdown from PDFs). Client-side processing; part of a larger suite of single-purpose web tools. Open source.
 
+- [PDF Toolbox](https://pdftoolbox-three.vercel.app) - Free, privacy-first online PDF toolkit — merge, split, compress, convert, OCR, e-sign, and more. All processing is client-side; files never leave the browser.
+
 ## Software
 
 - [Foxit Software](https://www.foxit.com/) - Multiple PDF-related products and other resources.
